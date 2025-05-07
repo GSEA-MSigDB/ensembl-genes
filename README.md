@@ -7,10 +7,10 @@
 - database: `mus_musculus_core_114_39`
 - release: 114
 - assembly: 39
-- export date: 2025-05-07T17:15:56.065452
-- source commit: `4742a3fec2d0de6fd0d43b370697fe972b9ec5ee
+- export date: 2025-05-07T17:45:56.211073
+- source commit: `862445d4608aa6088beb9bc9bad02ef2e8798fed
 `
-- created in action: <https://github.com/GSEA-MSigDB/ensembl-genes/actions/runs/14889137724>
+- created in action: <https://github.com/GSEA-MSigDB/ensembl-genes/actions/runs/14889694838>
 
 
 
